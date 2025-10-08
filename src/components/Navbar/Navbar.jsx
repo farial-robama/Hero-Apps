@@ -1,6 +1,12 @@
 import React from 'react';
+import { NavLink } from 'react-router';
 
 const Navbar = () => {
+    const links =[
+        {name: "Home", to: "/"},
+        {name: "Apps", to: "/allapps"},
+        {name: "Installation", to: "/installation"}
+    ]
     return (
         <div className="navbar bg-base-100 ">
   <div className="navbar-start">
@@ -11,19 +17,19 @@ const Navbar = () => {
       <ul
         tabIndex={0}
         className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
-        <li><a>Home</a></li>
-        <li><a>Apps</a></li>
-        <li><a>Installation</a></li>
+        {
+            links.map(link => <NavLink key={link.to} to={link.to} className={({isActive}) => isActive ? "bg-linear-to-br from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent " : ""}>{link.name}</NavLink>)
+        }
       </ul>
     </div>
     <a className="btn btn-ghost text-xl"><img className='w-7' src="/logo.png" alt="" />
     <span className='font-semibold bg-linear-to-br from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent'>HERO.IO</span></a>
   </div>
   <div className="navbar-center hidden lg:flex">
-    <ul className="menu menu-horizontal px-1">
-      <li><a>Home</a></li>
-      <li><a>Apps</a></li>
-      <li><a>Installation</a></li>
+    <ul className="menu menu-horizontal px-4">
+      {
+            links.map(link => <NavLink key={link.to} to={link.to} className={({isActive}) => isActive ? "bg-linear-to-br from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent px-4" : "px-4"}>{link.name}</NavLink>)
+        }
     </ul>
   </div>
   <div className="navbar-end">
