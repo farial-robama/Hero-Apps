@@ -4,7 +4,7 @@ import { NavLink } from 'react-router';
 const Navbar = () => {
     const links =[
         {name: "Home", to: "/"},
-        {name: "Apps", to: "/allapps"},
+        {name: "Apps", to: "/allApps"},
         {name: "Installation", to: "/installation"}
     ]
     return (
