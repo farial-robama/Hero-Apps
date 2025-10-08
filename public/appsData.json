@@ -1,10 +1,10 @@
 [
   {
-    "image": "https://api.dicebear.com/7.x/bottts/svg?seed=chatSphere",
-    "title": "ChatSphere",
+    "image": "https://picsum.photos/200?random=1",
+    "title": "ChatSphere - Modern Messaging App",
     "companyName": "BrightSoft",
     "id": 1,
-    "description": "ChatSphere is a modern messaging platform that makes communication seamless across the globe. It supports private chats, group conversations, voice notes, and high-definition video calls. Users can customize their experience with vibrant themes, animated stickers, and emojis. With end-to-end encryption, ChatSphere ensures your conversations are secure while also providing cloud backup for your data.",
+    "description": "ChatSphere is a modern messaging app with voice, video, and group chat support. Stay connected with friends using stickers, themes, and secure end-to-end encryption.",
     "size": 35,
     "reviews": 12000,
     "ratingAvg": 4.3,
@@ -18,11 +18,11 @@
     ]
   },
   {
-    "image": "https://api.dicebear.com/7.x/bottts/svg?seed=fitBuddy",
-    "title": "FitBuddy",
+    "image": "https://picsum.photos/200?random=2",
+    "title": "FitBuddy - Personal Fitness Tracker",
     "companyName": "ActiveLife Co.",
     "id": 2,
-    "description": "FitBuddy is your personal pocket trainer, designed to help you achieve fitness goals with customized exercise plans and guided tutorials. The app includes calorie tracking, step counters, heart rate monitoring, and weekly health challenges. AI-powered insights analyze your progress and provide recommendations for improvement. Whether you’re at the gym or at home, FitBuddy motivates you every step of the way.",
+    "description": "FitBuddy helps you track workouts, log calories, and monitor progress with personalized training plans and daily health insights.",
     "size": 52,
     "reviews": 18000,
     "ratingAvg": 4.6,
@@ -36,11 +36,11 @@
     ]
   },
   {
-    "image": "https://api.dicebear.com/7.x/bottts/svg?seed=eduVerse",
-    "title": "EduVerse",
+    "image": "https://picsum.photos/200?random=3",
+    "title": "EduVerse - Online Learning Platform",
     "companyName": "NextLearn",
     "id": 3,
-    "description": "EduVerse revolutionizes digital education by offering thousands of interactive courses across multiple fields. With live classes, on-demand video tutorials, and AI-driven progress tracking, learners can study at their own pace. Gamified quizzes, leaderboards, and certification programs encourage active participation. EduVerse also connects students with mentors for one-on-one learning sessions.",
+    "description": "EduVerse provides online courses, quizzes, and interactive study material for students and lifelong learners with expert mentors.",
     "size": 48,
     "reviews": 23000,
     "ratingAvg": 4.5,
@@ -54,11 +54,11 @@
     ]
   },
   {
-    "image": "https://api.dicebear.com/7.x/bottts/svg?seed=quickEats",
-    "title": "QuickEats",
+    "image": "https://picsum.photos/200?random=4",
+    "title": "QuickEats - Food Delivery & Deals",
     "companyName": "FoodNext",
     "id": 4,
-    "description": "QuickEats is a food delivery app that connects you with thousands of restaurants nearby. Featuring live GPS tracking, instant reorder, and personalized recommendations, QuickEats makes mealtime effortless. Exclusive deals and discounts keep your wallet happy, while customer ratings help you choose the best food. With 24/7 service, QuickEats ensures your cravings are satisfied anytime, anywhere.",
+    "description": "QuickEats connects you with restaurants nearby, offering fast delivery, live order tracking, and exclusive deals.",
     "size": 29,
     "reviews": 45000,
     "ratingAvg": 4.2,
@@ -72,11 +72,11 @@
     ]
   },
   {
-    "image": "https://api.dicebear.com/7.x/bottts/svg?seed=noteHive",
-    "title": "NoteHive",
+    "image": "https://picsum.photos/200?random=5",
+    "title": "NoteHive - Smart Notes & Tasks",
     "companyName": "Productive Apps",
     "id": 5,
-    "description": "NoteHive is a productivity powerhouse that combines note-taking, task management, and collaborative features into one tool. Users can create to-do lists, attach images, and organize notes into folders. With cloud synchronization, all notes are backed up and accessible on any device. Teams can collaborate in real-time, making NoteHive perfect for both students and professionals.",
+    "description": "NoteHive lets you create notes, organize tasks, and sync across all devices with offline access and collaborative features.",
     "size": 21,
     "reviews": 8700,
     "ratingAvg": 4.7,
@@ -90,11 +90,11 @@
     ]
   },
   {
-    "image": "https://api.dicebear.com/7.x/bottts/svg?seed=gameZone",
-    "title": "GameZone",
+    "image": "https://picsum.photos/200?random=6",
+    "title": "GameZone - Fun Mini Games",
     "companyName": "PlayHub",
     "id": 6,
-    "description": "GameZone brings a world of entertainment right to your device with hundreds of mini-games. From puzzles and trivia to action-packed adventures, there’s something for everyone. Players can compete in leaderboards, unlock achievements, and play with friends in real-time multiplayer. Offline support ensures that you can enjoy your favorite games without an internet connection.",
+    "description": "GameZone is a mini-games collection with puzzles, strategy, and action games playable offline or online with friends.",
     "size": 95,
     "reviews": 29000,
     "ratingAvg": 4.1,
@@ -108,11 +108,11 @@
     ]
   },
   {
-    "image": "https://api.dicebear.com/7.x/bottts/svg?seed=travelWise",
-    "title": "TravelWise",
+    "image": "https://picsum.photos/200?random=7",
+    "title": "TravelWise - Smart Travel Guide",
     "companyName": "Global Journeys",
     "id": 7,
-    "description": "TravelWise is the perfect companion for travelers looking to explore the world with confidence. The app provides destination guides, maps, language tools, and currency converters. Travelers can book hotels and activities directly within the app, while personalized itineraries help maximize experiences. With offline maps and safety alerts, TravelWise ensures smooth and worry-free adventures.",
+    "description": "TravelWise offers travel guides, hotel booking, and smart itineraries with maps, tips, and budgeting tools.",
     "size": 68,
     "reviews": 16500,
     "ratingAvg": 4.4,
@@ -126,11 +126,11 @@
     ]
   },
   {
-    "image": "https://api.dicebear.com/7.x/bottts/svg?seed=shopWave",
-    "title": "ShopWave",
+    "image": "https://picsum.photos/200?random=8",
+    "title": "ShopWave - Smart Shopping Deals",
     "companyName": "EcomNext",
     "id": 8,
-    "description": "ShopWave is a shopping assistant designed to save you money and time. With built-in price comparison, personalized recommendations, and flash sale alerts, you’ll never miss a deal again. Users can wishlist products, track deliveries, and enjoy a smooth checkout process. AI-powered insights make sure you’re getting the best value for your purchases.",
+    "description": "ShopWave helps you compare prices, discover discounts, and shop smarter with AI-based recommendations.",
     "size": 55,
     "reviews": 21000,
     "ratingAvg": 4.3,
@@ -144,11 +144,11 @@
     ]
   },
   {
-    "image": "https://api.dicebear.com/7.x/bottts/svg?seed=moneyMate",
-    "title": "MoneyMate",
+    "image": "https://picsum.photos/200?random=9",
+    "title": "MoneyMate - Expense & Budget Tracker",
     "companyName": "FinPro",
     "id": 9,
-    "description": "MoneyMate helps users take control of their finances with ease. It features expense tracking, budgeting tools, and financial insights. Users can categorize expenses, receive bill reminders, and track monthly savings goals. With easy-to-understand charts and reports, MoneyMate empowers you to make smarter financial decisions every day.",
+    "description": "MoneyMate helps you manage expenses, create budgets, and track savings goals with easy visualizations and reminders.",
     "size": 32,
     "reviews": 19200,
     "ratingAvg": 4.6,
@@ -162,11 +162,11 @@
     ]
   },
   {
-    "image": "https://api.dicebear.com/7.x/bottts/svg?seed=tuneBox",
-    "title": "TuneBox",
+    "image": "https://picsum.photos/200?random=10",
+    "title": "TuneBox - Music & Playlists",
     "companyName": "Soundify",
     "id": 10,
-    "description": "TuneBox is a next-generation music streaming platform designed for audiophiles and casual listeners alike. With millions of songs across genres, smart playlists, and offline downloads, TuneBox puts the world of music in your pocket. High-quality sound ensures the best listening experience, while social features allow you to share playlists and discover tracks with friends.",
+    "description": "TuneBox is a music streaming app with personalized playlists, offline downloads, and millions of tracks worldwide.",
     "size": 74,
     "reviews": 43000,
     "ratingAvg": 4.2,
@@ -180,273 +180,183 @@
     ]
   },
   {
-    "image": "https://api.dicebear.com/7.x/bottts/svg?seed=healthTrack",
-    "title": "HealthTrack",
-    "companyName": "WellnessWorks",
+    "image": "https://picsum.photos/200?random=11",
+    "title": "MindSpace - Meditation & Relaxation",
+    "companyName": "CalmTech",
     "id": 11,
-    "description": "HealthTrack is your all-in-one health companion that monitors your daily steps, calorie intake, hydration levels, and sleep quality. It integrates with wearable devices to provide a complete overview of your health. The app includes goal-setting features, personalized wellness challenges, and reminders to help you stay consistent. With detailed analytics and weekly progress reports, HealthTrack makes it easy to maintain a healthier lifestyle.",
+    "description": "MindSpace is a mindfulness and meditation app designed to help you reduce stress, improve focus, and sleep better.",
     "size": 40,
-    "reviews": 15600,
-    "ratingAvg": 4.5,
-    "downloads": "920K",
-    "ratings": [
-      { "name": "1 star", "count": 600 },
-      { "name": "2 star", "count": 1000 },
-      { "name": "3 star", "count": 2200 },
-      { "name": "4 star", "count": 5000 },
-      { "name": "5 star", "count": 6800 }
-    ]
-  },
-  {
-    "image": "https://api.dicebear.com/7.x/bottts/svg?seed=langBridge",
-    "title": "LangBridge",
-    "companyName": "PolyLingua",
-    "id": 12,
-    "description": "LangBridge is a language-learning app designed to make learning fun and interactive. It offers bite-sized lessons, speech recognition exercises, and vocabulary games across more than 30 languages. Users can connect with native speakers through live chat for real practice. Daily streaks and progress milestones motivate learners to stay consistent, making LangBridge perfect for travelers, students, and professionals alike.",
-    "size": 64,
-    "reviews": 22000,
-    "ratingAvg": 4.6,
-    "downloads": "1.8M",
-    "ratings": [
-      { "name": "1 star", "count": 1000 },
-      { "name": "2 star", "count": 1400 },
-      { "name": "3 star", "count": 2600 },
-      { "name": "4 star", "count": 7000 },
-      { "name": "5 star", "count": 9700 }
-    ]
-  },
-  {
-    "image": "https://api.dicebear.com/7.x/bottts/svg?seed=photoPix",
-    "title": "PhotoPix",
-    "companyName": "CreativeLens",
-    "id": 13,
-    "description": "PhotoPix is a feature-rich photo editor that combines professional-grade editing tools with easy-to-use filters and effects. It supports RAW image editing, AI-based background removal, and advanced retouching features. Users can create collages, add stickers, and share instantly to social media platforms. Whether you’re an amateur or professional photographer, PhotoPix provides all the tools you need in one place.",
-    "size": 110,
-    "reviews": 45000,
-    "ratingAvg": 4.3,
-    "downloads": "3.5M",
-    "ratings": [
-      { "name": "1 star", "count": 3000 },
-      { "name": "2 star", "count": 4000 },
-      { "name": "3 star", "count": 7200 },
-      { "name": "4 star", "count": 12000 },
-      { "name": "5 star", "count": 18800 }
-    ]
-  },
-  {
-    "image": "https://api.dicebear.com/7.x/bottts/svg?seed=relaxio",
-    "title": "Relaxio",
-    "companyName": "MindEase",
-    "id": 14,
-    "description": "Relaxio is a meditation and relaxation app designed to reduce stress and improve focus. It offers guided meditation sessions, sleep sounds, and mindfulness exercises. Users can customize their daily routines with reminders and track progress through calming visual dashboards. Relaxio also provides breathing exercises and quick relaxation techniques for busy professionals on the go.",
-    "size": 27,
-    "reviews": 17500,
+    "reviews": 15500,
     "ratingAvg": 4.7,
-    "downloads": "700K",
+    "downloads": "620K",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 8800 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=12",
+    "title": "CookSmart - Recipes & Meal Planner",
+    "companyName": "FoodieTech",
+    "id": 12,
+    "description": "CookSmart makes cooking easy by offering step-by-step recipes, meal planners, and shopping lists.",
+    "size": 65,
+    "reviews": 9800,
+    "ratingAvg": 4.5,
+    "downloads": "410K",
     "ratings": [
       { "name": "1 star", "count": 500 },
-      { "name": "2 star", "count": 800 },
-      { "name": "3 star", "count": 1800 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3000 },
+      { "name": "5 star", "count": 4400 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=13",
+    "title": "LearnLang - Language Learning App",
+    "companyName": "EduTech Labs",
+    "id": 13,
+    "description": "LearnLang is your go-to language learning app with interactive lessons, gamified quizzes, and real-life conversation practice.",
+    "size": 72,
+    "reviews": 22500,
+    "ratingAvg": 4.6,
+    "downloads": "1.2M",
+    "ratings": [
+      { "name": "1 star", "count": 900 },
+      { "name": "2 star", "count": 1300 },
+      { "name": "3 star", "count": 2500 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 10800 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=14",
+    "title": "DailyNews - Latest Headlines & Updates",
+    "companyName": "InfoHub",
+    "id": 14,
+    "description": "DailyNews keeps you updated with the latest global and local headlines, personalized news feeds, and live updates.",
+    "size": 58,
+    "reviews": 33500,
+    "ratingAvg": 4.1,
+    "downloads": "2.6M",
+    "ratings": [
+      { "name": "1 star", "count": 3200 },
+      { "name": "2 star", "count": 4000 },
+      { "name": "3 star", "count": 6000 },
+      { "name": "4 star", "count": 9000 },
+      { "name": "5 star", "count": 11300 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=15",
+    "title": "PetPal - Pet Care & Community",
+    "companyName": "CareCompanions",
+    "id": 15,
+    "description": "PetPal is the ultimate pet care app. Track vaccinations, schedule vet appointments, and access pet-friendly locations near you.",
+    "size": 37,
+    "reviews": 7500,
+    "ratingAvg": 4.4,
+    "downloads": "290K",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 3400 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=16",
+    "title": "RideGo - Fast & Affordable Rides",
+    "companyName": "UrbanMove",
+    "id": 16,
+    "description": "RideGo helps you book taxis, bikes, or shared rides quickly with real-time driver tracking and fare estimates.",
+    "size": 81,
+    "reviews": 29500,
+    "ratingAvg": 4.3,
+    "downloads": "3.8M",
+    "ratings": [
+      { "name": "1 star", "count": 2600 },
+      { "name": "2 star", "count": 3300 },
+      { "name": "3 star", "count": 5600 },
+      { "name": "4 star", "count": 8500 },
+      { "name": "5 star", "count": 9600 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=17",
+    "title": "Artify - Digital Drawing & Design",
+    "companyName": "Creative Minds",
+    "id": 17,
+    "description": "Artify is a creative design app where you can draw, sketch, and create digital art with hundreds of brushes and filters.",
+    "size": 102,
+    "reviews": 11200,
+    "ratingAvg": 4.8,
+    "downloads": "670K",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 6900 }
+    ]
+  },
+  {
+    "image": "https://picsum.photos/200?random=18",
+    "title": "HealthTrack - Wellness & Fitness Monitor",
+    "companyName": "Wellness Corp",
+    "id": 18,
+    "description": "HealthTrack monitors your health metrics such as steps, calories, sleep, and heart rate with personalized insights.",
+    "size": 59,
+    "reviews": 18800,
+    "ratingAvg": 4.5,
+    "downloads": "1.5M",
+    "ratings": [
+      { "name": "1 star", "count": 700 },
+      { "name": "2 star", "count": 1200 },
+      { "name": "3 star", "count": 2500 },
       { "name": "4 star", "count": 5000 },
       { "name": "5 star", "count": 9400 }
     ]
   },
   {
-    "image": "https://api.dicebear.com/7.x/bottts/svg?seed=taskFlow",
-    "title": "TaskFlow",
-    "companyName": "OrganizeIt",
-    "id": 15,
-    "description": "TaskFlow is a project management tool that helps individuals and teams stay organized. Users can create projects, assign tasks, set deadlines, and track progress in real-time. With drag-and-drop boards, Gantt charts, and team chat integration, productivity has never been easier. TaskFlow also syncs across devices, ensuring you’re always on top of your work wherever you are.",
-    "size": 59,
-    "reviews": 19800,
-    "ratingAvg": 4.4,
-    "downloads": "1.2M",
-    "ratings": [
-      { "name": "1 star", "count": 1000 },
-      { "name": "2 star", "count": 1400 },
-      { "name": "3 star", "count": 2500 },
-      { "name": "4 star", "count": 5200 },
-      { "name": "5 star", "count": 9700 }
-    ]
-  },
-  {
-    "image": "https://api.dicebear.com/7.x/bottts/svg?seed=storyWorld",
-    "title": "StoryWorld",
-    "companyName": "ImagiSoft",
-    "id": 16,
-    "description": "StoryWorld is an immersive reading platform offering thousands of e-books, audiobooks, and interactive stories. Readers can personalize fonts, backgrounds, and narration speed for the best experience. Offline downloads make reading convenient while travel, and built-in book clubs allow readers to connect and share recommendations. StoryWorld also includes a writer’s hub for aspiring authors to publish their stories.",
-    "size": 84,
-    "reviews": 26000,
-    "ratingAvg": 4.5,
-    "downloads": "2.1M",
-    "ratings": [
-      { "name": "1 star", "count": 1200 },
-      { "name": "2 star", "count": 1600 },
-      { "name": "3 star", "count": 3000 },
-      { "name": "4 star", "count": 8000 },
-      { "name": "5 star", "count": 11200 }
-    ]
-  },
-  {
-    "image": "https://api.dicebear.com/7.x/bottts/svg?seed=foodSnap",
-    "title": "FoodSnap",
-    "companyName": "TasteTech",
-    "id": 17,
-    "description": "FoodSnap is a smart food recognition app that uses AI to identify meals from photos and provide nutrition information instantly. It includes calorie breakdowns, recipe suggestions, and meal logging features. FoodSnap also supports integration with fitness apps to provide a complete health overview. Perfect for foodies and health-conscious individuals, it makes eating smarter effortless.",
-    "size": 45,
-    "reviews": 11200,
-    "ratingAvg": 4.3,
-    "downloads": "600K",
-    "ratings": [
-      { "name": "1 star", "count": 500 },
-      { "name": "2 star", "count": 900 },
-      { "name": "3 star", "count": 1700 },
-      { "name": "4 star", "count": 3500 },
-      { "name": "5 star", "count": 4600 }
-    ]
-  },
-  {
-    "image": "https://api.dicebear.com/7.x/bottts/svg?seed=ecoTrack",
-    "title": "EcoTrack",
-    "companyName": "GreenMind",
-    "id": 18,
-    "description": "EcoTrack encourages sustainable living by helping users monitor their daily carbon footprint. The app offers eco-friendly tips, green challenges, and rewards for reducing waste and energy use. It integrates with smart devices to track electricity usage and water consumption. With a strong community aspect, EcoTrack inspires users to share their eco-journeys and promote environmental awareness.",
-    "size": 37,
-    "reviews": 9800,
-    "ratingAvg": 4.6,
-    "downloads": "420K",
-    "ratings": [
-      { "name": "1 star", "count": 400 },
-      { "name": "2 star", "count": 600 },
-      { "name": "3 star", "count": 1200 },
-      { "name": "4 star", "count": 3000 },
-      { "name": "5 star", "count": 4600 }
-    ]
-  },
-  {
-    "image": "https://api.dicebear.com/7.x/bottts/svg?seed=petPal",
-    "title": "PetPal",
-    "companyName": "PawSoft",
+    "image": "https://picsum.photos/200?random=19",
+    "title": "StoryWorld - Books & Audiobooks",
+    "companyName": "LitNext",
     "id": 19,
-    "description": "PetPal is designed for pet owners to manage and monitor their furry friends’ needs. The app tracks vaccinations, feeding schedules, and grooming appointments. Users can connect with nearby vets, pet stores, and trainers. PetPal also has a community feature where pet lovers can share stories, pictures, and advice, making it a complete ecosystem for pet care.",
-    "size": 42,
-    "reviews": 13400,
-    "ratingAvg": 4.5,
-    "downloads": "780K",
+    "description": "StoryWorld is a reading app filled with ebooks, audiobooks, and stories across genres with personalized libraries.",
+    "size": 46,
+    "reviews": 9200,
+    "ratingAvg": 4.2,
+    "downloads": "520K",
     "ratings": [
       { "name": "1 star", "count": 600 },
-      { "name": "2 star", "count": 800 },
-      { "name": "3 star", "count": 1700 },
-      { "name": "4 star", "count": 4000 },
-      { "name": "5 star", "count": 6300 }
+      { "name": "2 star", "count": 900 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 3700 }
     ]
   },
   {
-    "image": "https://api.dicebear.com/7.x/bottts/svg?seed=skillUp",
-    "title": "SkillUp",
-    "companyName": "BrightFuture",
+    "image": "https://picsum.photos/200?random=20",
+    "title": "EventPro - Event Planning Made Easy",
+    "companyName": "PlanIt",
     "id": 20,
-    "description": "SkillUp provides online micro-courses for professionals looking to upskill in a fast-paced world. Covering topics from coding to leadership, courses are designed by industry experts. Each course includes short video lessons, quizzes, and practical assignments. Certificates can be shared on LinkedIn and resumes, giving users a competitive edge in their careers.",
-    "size": 72,
-    "reviews": 22800,
-    "ratingAvg": 4.7,
-    "downloads": "1.9M",
+    "description": "EventPro helps you plan and organize events with guest lists, reminders, and collaboration tools.",
+    "size": 64,
+    "reviews": 13400,
+    "ratingAvg": 4.3,
+    "downloads": "750K",
     "ratings": [
       { "name": "1 star", "count": 800 },
-      { "name": "2 star", "count": 1300 },
-      { "name": "3 star", "count": 2400 },
-      { "name": "4 star", "count": 6500 },
-      { "name": "5 star", "count": 11800 }
-    ]
-  },
-  {
-    "image": "https://api.dicebear.com/7.x/bottts/svg?seed=cityGuide",
-    "title": "CityGuide",
-    "companyName": "UrbanExplore",
-    "id": 21,
-    "description": "CityGuide is the ultimate companion for urban explorers, offering detailed maps, hidden gems, and local recommendations. Users can discover restaurants, attractions, and events curated by locals. Augmented reality mode provides immersive navigation experiences, and offline maps make it travel-friendly. CityGuide also includes community reviews and user-generated guides for authentic experiences.",
-    "size": 88,
-    "reviews": 18400,
-    "ratingAvg": 4.4,
-    "downloads": "1.5M",
-    "ratings": [
-      { "name": "1 star", "count": 1000 },
       { "name": "2 star", "count": 1200 },
-      { "name": "3 star", "count": 2400 },
-      { "name": "4 star", "count": 5200 },
-      { "name": "5 star", "count": 6600 }
-    ]
-  },
-  {
-    "image": "https://api.dicebear.com/7.x/bottts/svg?seed=brainBoost",
-    "title": "BrainBoost",
-    "companyName": "NeuroApps",
-    "id": 22,
-    "description": "BrainBoost sharpens your mind with daily brain-training exercises and puzzles. Games include memory challenges, logic puzzles, and problem-solving activities designed by neuroscientists. Progress tracking helps users visualize cognitive improvements over time. BrainBoost is fun, engaging, and scientifically backed to keep your brain healthy and active.",
-    "size": 36,
-    "reviews": 15200,
-    "ratingAvg": 4.5,
-    "downloads": "890K",
-    "ratings": [
-      { "name": "1 star", "count": 500 },
-      { "name": "2 star", "count": 900 },
-      { "name": "3 star", "count": 1800 },
-      { "name": "4 star", "count": 4200 },
-      { "name": "5 star", "count": 5800 }
-    ]
-  },
-  {
-    "image": "https://api.dicebear.com/7.x/bottts/svg?seed=artStudio",
-    "title": "ArtStudio",
-    "companyName": "DesignPro",
-    "id": 23,
-    "description": "ArtStudio is a creative app for digital artists, illustrators, and designers. It features professional drawing tools, customizable brushes, and layering options. The app supports stylus input for precision and exports projects in multiple formats. Beginners can use guided tutorials, while professionals enjoy full creative freedom to bring their imagination to life.",
-    "size": 120,
-    "reviews": 19800,
-    "ratingAvg": 4.6,
-    "downloads": "2.4M",
-    "ratings": [
-      { "name": "1 star", "count": 900 },
-      { "name": "2 star", "count": 1200 },
-      { "name": "3 star", "count": 2600 },
-      { "name": "4 star", "count": 6200 },
-      { "name": "5 star", "count": 8900 }
-    ]
-  },
-  {
-    "image": "https://api.dicebear.com/7.x/bottts/svg?seed=safeNet",
-    "title": "SafeNet",
-    "companyName": "CyberGuard",
-    "id": 24,
-    "description": "SafeNet is a cybersecurity app that protects your device against malware, phishing, and unsafe Wi-Fi connections. It provides real-time scanning, VPN services, and dark web monitoring for sensitive data leaks. SafeNet also includes parental controls and privacy dashboards. With continuous updates, it keeps you one step ahead of online threats.",
-    "size": 77,
-    "reviews": 24000,
-    "ratingAvg": 4.4,
-    "downloads": "2.7M",
-    "ratings": [
-      { "name": "1 star", "count": 1800 },
-      { "name": "2 star", "count": 2000 },
-      { "name": "3 star", "count": 3000 },
-      { "name": "4 star", "count": 7000 },
-      { "name": "5 star", "count": 10200 }
-    ]
-  },
-  {
-    "image": "https://api.dicebear.com/7.x/bottts/svg?seed=musicJam",
-    "title": "MusicJam",
-    "companyName": "BeatLabs",
-    "id": 25,
-    "description": "MusicJam allows users to create, mix, and share their own music tracks using a wide variety of virtual instruments and loops. The app supports collaborative music sessions where multiple people can compose in real-time. Built-in tutorials make it easy for beginners, while professionals benefit from MIDI compatibility and high-quality sound exports. MusicJam is the ultimate playground for music lovers.",
-    "size": 95,
-    "reviews": 31000,
-    "ratingAvg": 4.5,
-    "downloads": "3.1M",
-    "ratings": [
-      { "name": "1 star", "count": 2000 },
-      { "name": "2 star", "count": 2500 },
-      { "name": "3 star", "count": 4000 },
-      { "name": "4 star", "count": 8500 },
-      { "name": "5 star", "count": 14000 }
+      { "name": "3 star", "count": 2200 },
+      { "name": "4 star", "count": 4000 },
+      { "name": "5 star", "count": 5200 }
     ]
   }
 ]

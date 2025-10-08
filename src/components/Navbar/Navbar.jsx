@@ -17,7 +17,7 @@ const Navbar = () => {
       </ul>
     </div>
     <a className="btn btn-ghost text-xl"><img className='w-7' src="/logo.png" alt="" />
-    <span className='font-semibold bg-linear-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent'>HERO.IO</span></a>
+    <span className='font-semibold bg-linear-to-br from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent'>HERO.IO</span></a>
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1">
@@ -27,7 +27,7 @@ const Navbar = () => {
     </ul>
   </div>
   <div className="navbar-end">
-    <a className="btn bg-linear-to-r from-[#632EE3] to-[#9F62F2] text-[#FFFFFF]" href='https://github.com/farial-robama'>
+    <a className="btn bg-linear-to-br from-[#632EE3] to-[#9F62F2] text-[#FFFFFF]" href='https://github.com/farial-robama'>
         <img src="/Vector.png" alt="" />
         Contribute</a>
   </div>
