@@ -7,7 +7,7 @@ const TrendingApps = ({apps}) => {
     const topApps = Array.isArray(apps) ? apps.slice(0,8) : [] ;
     const navigate = useNavigate()
     return (
-        <div className='text-center py-10'>
+        <div className='text-center py-10 px-6'>
             <h1 className='text-2xl font-bold'>Trending Apps</h1>
             <p className='text-xs text-[#627382] font-[400] mt-2 mb-6'>Explore All Trending Apps on the Market developed by us</p>
             <div className='grid grid-cols-4 gap-4'>

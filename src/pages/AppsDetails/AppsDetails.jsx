@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import useApps from '../../Hooks/useApps';
-import { useParams } from 'react-router';
+import { Link, useParams } from 'react-router';
 import RatingsChart from './RatingsChart';
 import { useState } from 'react';
 import useInstalledApps from '../Utility/useInstalledApps';
@@ -15,7 +15,17 @@ const AppsDetails = () => {
 
 
     if (!app) {
-        return <p>Loading App Details....</p>
+        return (
+             <div className=' bg-[#F1F5E8] text-center flex flex-col items-center p-30'>
+            <img className='mb-5' src="/App-Error.png" alt="" />
+            <div>
+                <h1 className='text-2xl font-bold pt-3.5'>OPPS!! APP NOT FOUND</h1>
+            <p className='text-xs text-[#627382] font-[400] mt-2 mb-3'>The App you are requesting is not found on our system.  please try another apps</p>
+            <Link to='/allApps' className="btn bg-linear-to-br from-[#632EE3] to-[#9F62F2] text-[#FFFFFF] ">
+        Go Back</Link>
+            </div>
+        </div>
+        )
     }
 
     const installed = isAppInstalled(app.id)
@@ -33,18 +43,18 @@ const AppsDetails = () => {
                 <p>{companyName}</p>
                 </div>
                 <div className='flex flex-row gap-10'>
-                    <div className='flex flex-col'>
-                        <img className='w-7' src="/icon-downloads.png" alt="" />
+                    <div className='flex flex-col gap-1.5'>
+                        <img className='w-5' src="/icon-downloads.png" alt="" />
                         <p className='text-xs text-[#627382] font-[400]'>Downloads</p>
                         <h1 className='text-2xl font-bold'>{downloads}</h1>
                     </div>
-                    <div className='flex flex-col'>
-                        <img className='w-7' src="/icon-ratings.png" alt="" />
+                    <div className='flex flex-col gap-1.5'>
+                        <img className='w-5' src="/icon-ratings.png" alt="" />
                         <p className='text-xs text-[#627382] font-[400]'>Average Ratings</p>
                         <h1 className='text-2xl font-bold'>{ratingAvg}</h1>
                     </div>
-                    <div className='flex flex-col'>
-                        <img className='w-7' src="/icon-review.png" alt="" />
+                    <div className='flex flex-col gap-1.5'>
+                        <img className='w-5' src="/icon-review.png" alt="" />
                         <p className='text-xs text-[#627382] font-[400]'>Total Reviews</p>
                         <h1 className='text-2xl font-bold'>{reviews}</h1>
                     </div>
@@ -57,12 +67,12 @@ const AppsDetails = () => {
             </div>
             
         </div>
-        <div className=' border-t border-[#627382]/30 w-full py-4'>
+        <div className=' border-t border-[#627382]/30 w-full pt-4'>
             <h1 className='font-semibold text-lg'>Ratings</h1>
             <RatingsChart key={id} ratings={ratings} ></RatingsChart>
         </div>
-        <div className=' border-t border-[#627382]/30 w-full py-4'>
-            <h1 className='font-semibold text-lg'>Description</h1>
+        <div className=' border-t border-[#627382]/30 w-full pt-7 pb-10'>
+            <h1 className='font-semibold text-lg pb-4'>Description</h1>
             <p className='text-xs text-[#627382] font-[400]'>{description}</p>
         </div>
         </div>

@@ -13,8 +13,13 @@ const SortedAppsList = ({ apps, uninstallApp }) => {
   });
   return (
     <div>
-      <div className="dropdown dropdown-start">
-        <div tabIndex={0} role="button" className="btn m-1">
+      <div className="flex justify-between items-center">
+        <div className="font-semibold mb-3">
+        {sortedApps.length} App{sortedApps.length !== 1 ? "s " : ""}
+         Found 
+      </div>
+      <div className="dropdown dropdown-start mb-3">
+        <div tabIndex={0} role="button" className="btn m-1 text-[#627382] bg-[#F1F5E8] border-gray-200">
           {sort === "high-low"
             ? "Sorted: High-Low"
             : sort === "low-high"
@@ -35,12 +40,13 @@ const SortedAppsList = ({ apps, uninstallApp }) => {
           </li>
         </ul>
       </div>
+        </div>   
 
       <div className="grid grid-cols-1 gap-3">
         {sortedApps.map((app) => (
           <div
             key={app.id}
-            className="flex justify-between items-center bg-white p-3 "
+            className="flex justify-between items-center bg-white rounded-md p-3 "
           >
             <div className="flex flex-row gap-3">
               <img className="w-20 rounded-md" src={app.image} alt="" />
@@ -61,14 +67,14 @@ const SortedAppsList = ({ apps, uninstallApp }) => {
             </div>
             <button
               onClick={() => uninstallApp(app.id)}
-              className="btn btn-active btn-accent bg-[#00D390] w-[150px] text-xs text-white p-2 border-0"
+              className="btn btn-active btn-accent bg-[#00D390] w-[100px] text-xs text-white p-2 border-0"
             >
               Uninstall
             </button>
           </div>
         ))}
       </div>
-    </div>
+      </div>
   );
 };
 

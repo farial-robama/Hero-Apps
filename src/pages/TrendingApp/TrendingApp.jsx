@@ -9,10 +9,11 @@ const TrendingApp = ({app}) => {
             <div className='w-60 h-60  mb-3 '>
                 <img className='w-full h-full object-cover rounded-md ' src={image} alt="" />
             </div>
-            <p className='text-xs flex items-start '>{title}</p>
+    
+                <p className='text-xs flex items-start mb-2 font-semibold'>{title}</p>
             <div className='flex justify-between text-xs'>
-                <p className='flex gap-1'><img className='w-4' src="/icon-downloads.png" alt="" /><span>{downloads}</span></p>
-                <p className='flex gap-1'><img className='w-4' src="/icon-ratings.png" alt="" /><span>{ratingAvg}</span></p>
+                <p className='flex gap-1 items-center text-[#00D390]'><img className='w-3' src="/icon-downloads.png" alt="" /><span>{downloads}</span></p>
+                <p className='flex gap-1 items-center text-[#FF8811]'><img className='w-3' src="/icon-ratings.png" alt="" /><span>{ratingAvg}</span></p>
             </div>
             
         </div>
