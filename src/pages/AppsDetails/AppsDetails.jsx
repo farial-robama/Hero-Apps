@@ -59,7 +59,7 @@ const AppsDetails = () => {
         <div className="flex flex-col space-y-6 flex-1">
           <div className="border-b border-[#627382]/30 w-full py-6 ">
             <h1 className="font-semibold text-2xl pb-2">{title}</h1>
-            <p className="text-[#627382]">
+            <p className="text-[#627382] text-sm">
               Developed by{" "}
               <span className="bg-linear-to-br from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent font-semibold">
                 {companyName}

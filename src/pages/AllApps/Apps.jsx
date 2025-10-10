@@ -35,7 +35,7 @@ const Apps = () => {
   }
 
   return (
-    <div className="text-center p-13 flex flex-col justify-center">
+    <div className="w-full text-center py-12 md:px-12 px-6 flex flex-col justify-center">
       <h1 className="text-2xl font-bold">Our All Applications</h1>
       <p className="text-xs text-[#627382] font-[400] mt-2 mb-6">
         Explore All Apps on the Market developed by us. We code for Millions

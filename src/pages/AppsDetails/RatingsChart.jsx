@@ -9,11 +9,13 @@ import {
 } from "recharts";
 
 const RatingsChart = ({ ratings }) => {
+  const sortedRatings = [...ratings].sort((a, b) => parseInt(b.name) - parseInt(a.name));
+
   return (
     <div>
       <ResponsiveContainer width="100%" height={250}>
         <BarChart
-          data={ratings}
+          data={sortedRatings}
           layout="vertical"
           margin={{ top: 10, right: 20, left: 0, bottom: 0 }}
         >
