@@ -7,7 +7,7 @@ const Apps = () => {
   const { apps, loading, error } = useApps();
   const [search, setSearch] = useState("");
   const [searchSubmitted, setSearchSubmitted] = useState(false);
-  
+
   if (loading) {
     return (
       <div className="flex justify-center my-4">
@@ -21,7 +21,11 @@ const Apps = () => {
   }
 
   if (error) {
-    return <p className="text-xs text-[#627382] font-[400] mt-2 mb-6">Error: {error.message}</p>;
+    return (
+      <p className="text-xs text-[#627382] font-[400] mt-2 mb-6">
+        Error: {error.message}
+      </p>
+    );
   }
 
   const filteredApps = apps.filter((app) =>
@@ -30,9 +34,9 @@ const Apps = () => {
 
   const handleKeyDown = (e) => {
     if (e.key === "Enter") {
-      setSearchSubmitted(true)
+      setSearchSubmitted(true);
     }
-  }
+  };
 
   return (
     <div className="w-full text-center py-12 md:px-12 px-6 flex flex-col justify-center">
@@ -65,11 +69,14 @@ const Apps = () => {
           </svg>
           <input
             type="text"
+            id="search-app"
+            name="search-app"
             placeholder="Search"
             value={search}
             onChange={(e) => {
-              setSearch(e.target.value)
-              setSearchSubmitted(false)}}
+              setSearch(e.target.value);
+              setSearchSubmitted(false);
+            }}
             onKeyDown={handleKeyDown}
             className="grow"
           />
@@ -77,33 +84,30 @@ const Apps = () => {
       </div>
 
       {search && filteredApps.length === 0 ? (
-        searchSubmitted ?
-        (
+        searchSubmitted ? (
           <div className="text-center mt-7">
-          
-          <p className="text-lg text-[#627382] font-[400]">No apps found matching "<span>{search}</span>"</p>
-      
+            <p className="text-lg text-[#627382] font-[400]">
+              No apps found matching "<span>{search}</span>"
+            </p>
           </div>
-        ) :
-        (
-        <div>
-            <span className="loading loading-ball loading-xs"></span>
-        <span className="loading loading-ball loading-sm"></span>
-            <span className="loading loading-ball loading-md"></span>
-        </div>
-      )
-    ) : (
-      <div className="grid md:grid-cols-4 grid-cols-2 gap-4">
-        {filteredApps.length > 0 ? (
-          filteredApps.map((app) => (
-            <Application key={app.id} app={app}></Application>
-          ))
         ) : (
-          <p className="text-sm text-[#627382] font-[400]">No apps found</p>
-        )}
-      </div>)
-    }
-
+          <div>
+            <span className="loading loading-ball loading-xs"></span>
+            <span className="loading loading-ball loading-sm"></span>
+            <span className="loading loading-ball loading-md"></span>
+          </div>
+        )
+      ) : (
+        <div className="grid md:grid-cols-4 grid-cols-2 gap-4">
+          {filteredApps.length > 0 ? (
+            filteredApps.map((app) => (
+              <Application key={app.id} app={app}></Application>
+            ))
+          ) : (
+            <p className="text-sm text-[#627382] font-[400]">No apps found</p>
+          )}
+        </div>
+      )}
     </div>
   );
 };

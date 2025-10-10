@@ -5,7 +5,7 @@ const Application = ({ app }) => {
   const { id, image, title, downloads, ratingAvg } = app;
   return (
     <Link to={`/appsDetails/${id}`}>
-      <div className="bg-[#FFFFFF] rounded-md shadow-sm hover:shadow-lg transition-shadow duration-150 flex flex-col  mx-auto  p-4">
+      <div className="bg-[#FFFFFF] rounded-md shadow-sm hover:shadow-lg transition-shadow duration-500 flex flex-col  mx-auto  p-4">
         <div className="w-full h-full">
           <img
             className="w-full h-full object-cover rounded-md "
