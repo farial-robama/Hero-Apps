@@ -71,7 +71,7 @@ const Apps = () => {
             type="text"
             id="search-app"
             name="search-app"
-            placeholder="Search"
+            placeholder="Search Apps"
             value={search}
             onChange={(e) => {
               setSearch(e.target.value);

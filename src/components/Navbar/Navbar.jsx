@@ -47,8 +47,8 @@ const Navbar = () => {
             ))}
           </ul>
         </div>
-        <a className="btn btn-ghost text-xl">
-          <img className="w-7" src="/logo.png" alt="" />
+        <a className="btn btn-ghost md:text-xl text-sm ">
+          <img className="md:w-7 w-6" src="/logo.png" alt="" />
           <span className="font-semibold bg-linear-to-br from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent">
             HERO.IO
           </span>
@@ -73,10 +73,10 @@ const Navbar = () => {
       </div>
       <div className="navbar-end">
         <a
-          className="btn bg-linear-to-br from-[#632EE3] to-[#9F62F2] text-[#FFFFFF]"
+          className="btn md:py-4 py-2 md:px-3 px-1.5 md:text-sm text-xs bg-linear-to-br from-[#632EE3] to-[#9F62F2] text-[#FFFFFF]"
           href="https://github.com/farial-robama"
         >
-          <img src="/Vector.png" alt="" />
+          <img className="md:w-5 w-3.5" src="/Vector.png" alt="" />
           Contribute
         </a>
       </div>
