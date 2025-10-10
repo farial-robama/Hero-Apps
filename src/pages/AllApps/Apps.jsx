@@ -43,7 +43,7 @@ const Apps = () => {
 
       <div className="flex justify-between md:flex-row flex-col-reverse gap-2.5 items-center mb-4">
         <h1 className="font-semibold mb-3">
-          ({filteredApps.length}) Apps found
+          ({filteredApps.length}) Apps Found
         </h1>
 
         <label className="input text-[#627382] bg-[#F1F5E8]">
@@ -81,7 +81,7 @@ const Apps = () => {
         (
           <div className="text-center mt-7">
           
-          <p className="text-sm text-[#627382] font-[400]">No apps found matching "<span>{search}</span>"</p>
+          <p className="text-lg text-[#627382] font-[400]">No apps found matching "<span>{search}</span>"</p>
       
           </div>
         ) :

@@ -25,7 +25,7 @@ const Installation = () => {
 
   if (!installedApps || installedApps.length === 0) {
     return (
-      <p className="text-xs text-[#627382] font-[400] text-center mt-2 mb-8">
+      <p className="text-center text-lg text-[#627382] font-[400] my-6">
         No apps installed.
       </p>
     );
