@@ -16,11 +16,10 @@ const SortedAppsList = ({ apps, uninstallApp }) => {
     <div>
       <div className="flex justify-between items-center">
         <div className="font-semibold mb-3">
-        {sortedApps.length} App{sortedApps.length !== 1 ? "s " : ""}
-         Found 
+        {sortedApps.length} App{sortedApps.length !== 1 ? "s" : ""} Found 
       </div>
       <div className="dropdown dropdown-start mb-3">
-        <div tabIndex={0} role="button" className="btn m-1 text-[#627382] bg-[#F1F5E8] border-2 border-gray-200 font-medium">
+        <div tabIndex={0} role="button" className="btn m-1 text-[#627382] bg-[#f0f0f1] border-gray-300 font-medium">
           {sort === "high-low"
             ? "Sorted: High-Low"
             : sort === "low-high"

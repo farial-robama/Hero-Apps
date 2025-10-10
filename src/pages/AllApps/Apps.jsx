@@ -46,7 +46,7 @@ const Apps = () => {
           ({filteredApps.length}) Apps Found
         </h1>
 
-        <label className="input text-[#627382] bg-[#F1F5E8]">
+        <label className="input text-[#627382] bg-[#f0f0f1]">
           <svg
             className="h-[1em] opacity-50"
             xmlns="http://www.w3.org/2000/svg"
