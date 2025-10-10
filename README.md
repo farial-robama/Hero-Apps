@@ -8,3 +8,6 @@ Hero Apps is a modern web application that showcases trending mobile apps, allow
 **Recharts** <br>
 **LocalStorage** <br>
 **React Toastify**
+
+## Live Project: 
+https://hero-apps-620b2b.netlify.app/
