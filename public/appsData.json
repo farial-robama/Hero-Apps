@@ -1,10 +1,10 @@
 [
   {
-    "image": "https://picsum.photos/200?random=1",
+    "image": "/chatapp.png",
     "title": "ChatSphere - Modern Messaging App",
     "companyName": "BrightSoft",
     "id": 1,
-    "description": "ChatSphere is a modern messaging app that allows seamless communication via text, voice, and video. Engage in group chats, share photos, and customize conversations with stickers and themes. All messages are protected with end-to-end encryption to ensure privacy. Stay connected with instant notifications and smooth performance across devices.",
+    "description": "ChatSphere is a next-generation messaging platform built for seamless communication across devices. It supports text, voice, and high-definition video chats with ultra-low latency. Users can create groups, share files, send media, and even use fun stickers or custom themes to personalize conversations. With real-time syncing, messages stay updated on all devices instantly. End-to-end encryption ensures complete privacy and data protection, while smart notifications keep you connected without interruptions. ChatSphere is perfect for both casual chats and professional collaboration.",
     "size": 35,
     "reviews": "12K",
     "ratingAvg": 4.3,
@@ -18,11 +18,11 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200?random=2",
+    "image": "/fitness-tracking-app.webp",
     "title": "FitBuddy - Personal Fitness Tracker",
     "companyName": "ActiveLife Co.",
     "id": 2,
-    "description": "FitBuddy is your personal fitness companion, helping you track workouts, calories, and daily activity. Receive customized training plans and progress insights. Join challenges and stay motivated with visualized goals. Sync data with wearables for real-time updates. Improve your health while enjoying a smart and interactive fitness experience.",
+    "description": "FitBuddy transforms your fitness journey into a personalized, data-driven experience. Track workouts, calories, and daily steps with precision. The app generates custom training plans based on your goals and progress. It visualizes your achievements with charts and progress bars, helping you stay motivated. Integration with smartwatches and wearables provides real-time performance tracking. Join community challenges, earn badges, and connect with other fitness enthusiasts. FitBuddy is your ultimate fitness partner to stay healthy and consistent.",
     "size": 52,
     "reviews": "18K",
     "ratingAvg": 4.6,
@@ -36,11 +36,11 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200?random=3",
+    "image": "/online-learning.webp",
     "title": "EduVerse - Online Learning Platform",
     "companyName": "NextLearn",
     "id": 3,
-    "description": "EduVerse is an online learning platform offering courses, quizzes, and interactive study materials. Learn from expert mentors and track your progress through personalized dashboards. Study at your own pace or join live classes. Enhance your skills and knowledge across diverse subjects. Ideal for students and lifelong learners seeking structured education.",
+    "description": "EduVerse is an interactive e-learning ecosystem that makes education accessible and engaging for everyone. Explore thousands of courses across multiple disciplines with lessons created by expert instructors. Each course includes quizzes, notes, and progress tracking dashboards. Learners can join live sessions or study offline at their own pace. EduVerse’s AI recommendations help you discover new skills aligned with your career path. Whether you’re a student or a professional, EduVerse empowers lifelong learning with structure and motivation.",
     "size": 48,
     "reviews": "23K",
     "ratingAvg": 4.5,
@@ -54,11 +54,11 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200?random=4",
+    "image": "/food-delivery.webp",
     "title": "QuickEats - Food Delivery & Deals",
     "companyName": "FoodNext",
     "id": 4,
-    "description": "QuickEats delivers food from nearby restaurants with fast delivery and live order tracking. Discover exclusive deals and discounts. Customize orders and save favorites for quicker future access. Enjoy convenient, reliable service anytime. A perfect app for food lovers seeking variety and speed.",
+    "description": "QuickEats delivers your favorite meals faster than ever before with live tracking and personalized restaurant recommendations. Browse thousands of local restaurants, filter by cuisine or rating, and place orders in seconds. The app’s smart system predicts delivery times accurately, ensuring reliability. Users can customize dishes, save favorites, and enjoy exclusive offers and promo codes. With secure payments and 24/7 customer support, QuickEats ensures a smooth, convenient, and delightful food delivery experience every time.",
     "size": 29,
     "reviews": "45K",
     "ratingAvg": 4.2,
@@ -72,11 +72,11 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200?random=5",
+    "image": "/daily-planner.webp",
     "title": "NoteHive - Smart Notes & Tasks",
     "companyName": "Productive Apps",
     "id": 5,
-    "description": "NoteHive is designed to help you create notes, organize tasks, and manage projects effortlessly. Sync your content across devices with offline access. Collaborate with teams by sharing notes and checklists. Use reminders, tags, and smart organization features to enhance productivity. Simplify your daily workflow in a single intuitive app.",
+    "description": "NoteHive is your digital workspace for capturing ideas, organizing thoughts, and managing projects efficiently. Create notes, to-do lists, and reminders with a clean, distraction-free interface. Categorize content with tags, folders, and color coding for quick retrieval. Sync your notes across all devices and access them even offline. Collaborate with teams by sharing projects in real time. Smart search and AI-assisted suggestions make productivity effortless. NoteHive is built for students, professionals, and creators who value organization and focus.",
     "size": 21,
     "reviews": "8.7K",
     "ratingAvg": 4.7,
@@ -90,11 +90,11 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200?random=6",
+    "image": "/fun-games.jpg",
     "title": "GameZone - Fun Mini Games",
     "companyName": "PlayHub",
     "id": 6,
-    "description": "GameZone is a collection of mini-games offering puzzles, strategy, and action games. Play offline or challenge friends online. Enjoy smooth gameplay and fun graphics. Track your high scores and achievements across multiple games. Perfect for casual gaming and entertainment on the go.",
+    "description": "GameZone is a fun-packed collection of mini-games designed to entertain players of all ages. From puzzles and logic challenges to fast-paced action games, it offers something for everyone. Compete against AI or friends online and climb global leaderboards. Each game includes achievements, unlockables, and daily rewards to keep you coming back. Enjoy smooth performance and intuitive controls even on low-end devices. GameZone combines simplicity and excitement, making it your all-in-one mobile gaming hub.",
     "size": 95,
     "reviews": "29K",
     "ratingAvg": 4.1,
@@ -108,11 +108,11 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200?random=7",
+    "image": "/traveller.webp",
     "title": "TravelWise - Smart Travel Guide",
     "companyName": "Global Journeys",
     "id": 7,
-    "description": "TravelWise helps plan trips with travel guides, hotel booking, and smart itineraries. Access maps, tips, and budgeting tools. Save favorite destinations and share plans with friends. Receive personalized recommendations for accommodations and activities. Ideal for travelers seeking convenience and inspiration.",
+    "description": "TravelWise is your personal travel planner and guide, designed to make every journey hassle-free. Discover top destinations, book hotels, and plan itineraries all in one app. Use interactive maps, expense tracking, and smart recommendations to explore with confidence. You can save favorite places, create custom trip plans, and share them with friends. The app provides local tips, language assistance, and safety alerts. TravelWise ensures that whether you’re backpacking or on a luxury trip, your adventures stay organized and memorable.",
     "size": 68,
     "reviews": "16.5K",
     "ratingAvg": 4.4,
@@ -126,11 +126,11 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200?random=8",
+    "image": "/smart-shopping.jpeg",
     "title": "ShopWave - Smart Shopping Deals",
     "companyName": "EcomNext",
     "id": 8,
-    "description": "ShopWave helps you find the best deals and compare prices across online stores. Discover discounts with AI-powered recommendations. Save favorite products and track price drops. Get personalized alerts for offers matching your preferences. Shop smarter and save money with ease.",
+    "description": "ShopWave revolutionizes your shopping experience by helping you find the best deals across multiple online stores. Compare prices, read verified reviews, and track discounts effortlessly. Its AI-powered engine suggests personalized offers based on your interests and browsing history. Save your favorite products and get notified when prices drop. ShopWave also features smart wishlists and secure shopping links. Whether you’re buying tech gadgets, clothes, or groceries, ShopWave ensures you save money while shopping smarter.",
     "size": 55,
     "reviews": "21K",
     "ratingAvg": 4.3,
@@ -144,11 +144,11 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200?random=9",
+    "image": "/expense-tracker.png",
     "title": "MoneyMate - Expense & Budget Tracker",
     "companyName": "FinPro",
     "id": 9,
-    "description": "MoneyMate helps you manage finances efficiently with expense tracking, budgeting, and savings goals. Visualize spending trends and get actionable insights. Set reminders for bills and payments. Export reports and track progress over time. Simplify financial planning and stay in control of your money.",
+    "description": "MoneyMate is your all-in-one financial assistant for smart budgeting and expense tracking. Record income and expenses effortlessly, categorize spending, and get visual insights through graphs and summaries. Set monthly budgets, savings goals, and bill reminders to stay financially disciplined. The app analyzes your habits and provides personalized advice for better money management. Export data into spreadsheets for detailed reporting. With a secure, user-friendly interface, MoneyMate empowers you to take full control of your financial future.",
     "size": 32,
     "reviews": "19.2K",
     "ratingAvg": 4.6,
@@ -162,11 +162,11 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200?random=10",
+    "image": "/play-music.png",
     "title": "TuneBox - Music & Playlists",
     "companyName": "Soundify",
     "id": 10,
-    "description": "TuneBox is a music streaming app with personalized playlists and offline downloads. Access millions of songs from multiple genres. Discover new artists and curate your library. Enjoy seamless playback with high-quality audio. Perfect for music enthusiasts seeking variety and convenience.",
+    "description": "TuneBox is a premium music streaming platform that gives you access to millions of songs and playlists. Enjoy your favorite tracks offline or online with high-quality sound. TuneBox’s AI learns your taste to create personalized mixes and discover new artists. Users can create and share playlists, follow trending charts, and explore podcasts. The sleek interface and low-buffer playback ensure an uninterrupted experience. Whether you love pop, rock, or jazz, TuneBox brings music to life like never before.",
     "size": 74,
     "reviews": "43K",
     "ratingAvg": 4.2,
@@ -180,11 +180,11 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200?random=11",
+    "image": "/meditation.png",
     "title": "MindSpace - Meditation & Relaxation",
     "companyName": "CalmTech",
     "id": 11,
-    "description": "MindSpace helps reduce stress, improve focus, and enhance sleep through guided meditation. Enjoy a variety of mindfulness exercises and relaxation techniques. Track your progress and maintain daily habits. Personalized sessions cater to beginners and advanced users. Create a calm environment anytime, anywhere.",
+    "description": "MindSpace helps you manage stress and mental well-being through guided meditation and mindfulness practices. Explore a wide range of audio sessions, breathing techniques, and sleep soundscapes. Track your daily progress and build a personalized meditation habit. The app adapts to your needs — from quick relaxation breaks to deep sleep guidance. Notifications gently remind you to take mindful moments throughout your day. MindSpace is your peaceful pocket companion for focus, calm, and emotional balance.",
     "size": 40,
     "reviews": "15.5K",
     "ratingAvg": 4.7,
@@ -198,11 +198,11 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200?random=12",
+    "image": "/meal-planner.png",
     "title": "CookSmart - Recipes & Meal Planner",
     "companyName": "FoodieTech",
     "id": 12,
-    "description": "CookSmart offers step-by-step recipes, meal planners, and shopping lists to simplify cooking. Discover new dishes and cuisines. Organize weekly menus and ingredients. Share your recipes and track favorites. Ideal for home chefs and food enthusiasts looking for convenience.",
+    "description": "CookSmart brings the joy back into cooking by simplifying meal planning and recipe management. Explore thousands of step-by-step recipes with detailed ingredient lists and nutritional info. Create shopping lists automatically and plan weekly menus. Save your favorite dishes and share them with friends. The app also suggests recipes based on ingredients you already have. With a clean layout and smart cooking timers, CookSmart makes every meal delicious, efficient, and stress-free.",
     "size": 65,
     "reviews": "9.8K",
     "ratingAvg": 4.5,
@@ -216,11 +216,11 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200?random=13",
+    "image": "/languages.png",
     "title": "LearnLang - Language Learning App",
     "companyName": "EduTech Labs",
     "id": 13,
-    "description": "LearnLang provides interactive lessons, gamified quizzes, and real-life conversation practice. Track progress and earn rewards. Learn multiple languages at your own pace. Practice speaking with AI-assisted pronunciation guides. Ideal for beginners and advanced learners seeking fluency.",
+    "description": "LearnLang is an interactive language-learning platform that makes mastering new languages fun and effective. Practice speaking, reading, and writing with AI-powered tutors. Earn rewards through gamified quizzes and daily streak challenges. Real-life conversation simulations help build confidence. The app tracks your improvement and adjusts lessons accordingly. Whether you’re learning English, Spanish, or Japanese, LearnLang offers a personalized path to fluency — anytime, anywhere.",
     "size": 72,
     "reviews": "22.5K",
     "ratingAvg": 4.6,
@@ -234,11 +234,11 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200?random=14",
+    "image": "/dailynews.webp",
     "title": "DailyNews - Latest Headlines & Updates",
     "companyName": "InfoHub",
     "id": 14,
-    "description": "DailyNews keeps you updated with the latest local and global headlines. Personalize your news feed and receive live updates. Access multimedia content including videos and articles. Stay informed about politics, technology, sports, and entertainment. Perfect for those who want curated news on the go.",
+    "description": "DailyNews is your customizable hub for staying updated with the world. Access breaking news, live updates, and in-depth reports from reliable sources. Tailor your feed by categories like politics, business, sports, or entertainment. Watch short clips, read articles, or listen to audio summaries. The app’s minimalist layout ensures distraction-free reading. DailyNews helps you stay informed, engaged, and aware — no matter where you are.",
     "size": 58,
     "reviews": "33.5K",
     "ratingAvg": 4.1,
@@ -252,11 +252,11 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200?random=15",
+    "image": "/pomocat.webp",
     "title": "PetPal - Pet Care & Community",
     "companyName": "CareCompanions",
     "id": 15,
-    "description": "PetPal is the ultimate app for pet care and community interaction. Track vaccinations, schedule vet appointments, and discover pet-friendly places. Connect with other pet owners and share tips. Access guides for nutrition, training, and health. Simplify pet management and build a community around your furry friends.",
+    "description": "PetPal is the ultimate companion app for pet owners, offering everything you need for pet care and community engagement. Keep track of vaccinations, vet visits, and feeding schedules. Discover nearby pet-friendly parks, stores, and services. Join communities to share experiences and get expert advice. Manage multiple pets with ease through individual profiles. PetPal is not just an organizer — it’s a thriving hub for animal lovers to connect, learn, and care better.",
     "size": 37,
     "reviews": "7.5K",
     "ratingAvg": 4.4,
@@ -270,11 +270,11 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200?random=16",
+    "image": "/riding.png",
     "title": "RideGo - Fast & Affordable Rides",
     "companyName": "UrbanMove",
     "id": 16,
-    "description": "RideGo lets you book taxis, bikes, or shared rides instantly with real-time tracking. Get fare estimates and driver ratings. Save favorite locations for quick bookings. Receive notifications on ride status and delays. Efficient, affordable, and reliable transportation at your fingertips.",
+    "description": "RideGo simplifies your daily commuting by letting you book rides instantly. Choose from taxis, bikes, or shared rides with transparent fares and estimated times. The app displays driver profiles, live GPS tracking, and secure payment options. Save frequent routes for faster bookings and receive instant notifications on trip status. RideGo ensures safety, reliability, and comfort, making every journey stress-free and efficient.",
     "size": 81,
     "reviews": "29.5K",
     "ratingAvg": 4.3,
@@ -288,11 +288,11 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200?random=17",
+    "image": "/drawing.webp",
     "title": "Artify - Digital Drawing & Design",
     "companyName": "Creative Minds",
     "id": 17,
-    "description": "Artify is a creative design app for drawing, sketching, and digital art. Access hundreds of brushes, filters, and tools. Create and share artwork with the community. Save projects and edit anytime. Perfect for aspiring artists and professionals looking for portable design tools.",
+    "description": "Artify empowers creators to unleash their imagination with a professional-grade digital art studio. Access hundreds of customizable brushes, color palettes, and filters. Create sketches, paintings, or illustrations with precision tools optimized for stylus and touch. Save your projects to the cloud and revisit them anytime. Join a creative community to showcase your work and get feedback. Whether you’re a hobbyist or a pro, Artify turns your device into a powerful canvas.",
     "size": 102,
     "reviews": "11.2K",
     "ratingAvg": 4.8,
@@ -306,11 +306,11 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200?random=18",
+    "image": "/health-wellness.jpg",
     "title": "HealthTrack - Wellness & Fitness Monitor",
     "companyName": "Wellness Corp",
     "id": 18,
-    "description": "HealthTrack monitors your wellness metrics including steps, calories, sleep, and heart rate. Provides personalized insights and recommendations. Track progress over time and set fitness goals. Syncs with wearable devices for real-time data. Stay healthy and informed with an easy-to-use interface.",
+    "description": "HealthTrack is your all-in-one wellness companion designed to monitor and improve your health. It records steps, calories, sleep quality, and heart rate through smart sensors or connected wearables. Visual reports and daily summaries help you understand your habits better. Personalized insights guide you toward healthier lifestyle choices. You can also set reminders for hydration, workouts, and medication. HealthTrack keeps you informed and motivated toward your fitness goals.",
     "size": 59,
     "reviews": "18.8K",
     "ratingAvg": 4.5,
@@ -324,11 +324,11 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200?random=19",
+    "image": "/audiobook.webp",
     "title": "StoryWorld - Books & Audiobooks",
     "companyName": "LitNext",
     "id": 19,
-    "description": "StoryWorld offers ebooks and audiobooks across multiple genres. Build a personalized library and save favorites. Access recommendations based on reading habits. Listen or read offline with convenience. Ideal for book lovers seeking immersive reading experiences.",
+    "description": "StoryWorld opens up a universe of reading and listening experiences through ebooks and audiobooks. Discover stories from every genre — romance, thriller, sci-fi, or non-fiction — curated to your preferences. Save favorites, create collections, and sync your reading progress across devices. Offline mode lets you enjoy stories anywhere. The app also provides personalized recommendations based on your reading habits. StoryWorld transforms how you experience literature in the digital age.",
     "size": 46,
     "reviews": "9.2K",
     "ratingAvg": 4.2,
@@ -342,11 +342,11 @@
     ]
   },
   {
-    "image": "https://picsum.photos/200?random=20",
+    "image": "/event-planner.jpg",
     "title": "EventPro - Event Planning Made Easy",
     "companyName": "PlanIt",
     "id": 20,
-    "description": "EventPro helps organize events with guest lists, reminders, and collaborative tools. Plan parties, meetings, or conferences efficiently. Track RSVPs, schedules, and tasks. Share plans with co-organizers. Simplify event management and ensure a smooth experience for attendees.",
+    "description": "EventPro is your go-to app for planning and managing events effortlessly. From birthday parties to corporate conferences, it streamlines guest lists, invitations, and scheduling. Collaborate with co-hosts in real time and track RSVPs at a glance. The built-in task manager keeps you organized with reminders and deadlines. EventPro ensures every event runs smoothly, helping you focus on creativity and connection instead of logistics.",
     "size": 64,
     "reviews": "13.4K",
     "ratingAvg": 4.3,

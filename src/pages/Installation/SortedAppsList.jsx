@@ -1,3 +1,4 @@
+import { MoveRight } from "lucide-react";
 import React, { useState } from "react";
 
 const SortedAppsList = ({ apps, uninstallApp }) => {
@@ -19,7 +20,7 @@ const SortedAppsList = ({ apps, uninstallApp }) => {
          Found 
       </div>
       <div className="dropdown dropdown-start mb-3">
-        <div tabIndex={0} role="button" className="btn m-1 text-[#627382] bg-[#F1F5E8] border-gray-200">
+        <div tabIndex={0} role="button" className="btn m-1 text-[#627382] bg-[#F1F5E8] border-2 border-gray-200 font-medium">
           {sort === "high-low"
             ? "Sorted: High-Low"
             : sort === "low-high"
@@ -30,13 +31,13 @@ const SortedAppsList = ({ apps, uninstallApp }) => {
         </div>
         <ul
           tabIndex={0}
-          className="dropdown-content menu bg-base-100 rounded-box z-1 w-52 p-2 shadow-sm"
+          className="dropdown-content menu bg-base-100 rounded-box z-1 w-34 p-2 shadow-sm"
         >
           <li>
-            <a onClick={() => setSort("high-low")}>High-Low</a>
+            <a onClick={() => setSort("high-low")}>High<MoveRight className="w-5"/>Low</a>
           </li>
           <li>
-            <a onClick={() => setSort("low-high")}>Low-high</a>
+            <a onClick={() => setSort("low-high")}>Low<MoveRight className="w-5"/>High</a>
           </li>
         </ul>
       </div>
@@ -46,13 +47,13 @@ const SortedAppsList = ({ apps, uninstallApp }) => {
         {sortedApps.map((app) => (
           <div
             key={app.id}
-            className="flex justify-between items-center bg-white rounded-md p-3 "
+            className="flex md:flex-row flex-col gap-4 justify-between items-center bg-white rounded-md p-3 "
           >
             <div className="flex flex-row gap-3">
               <img className="w-20 rounded-md" src={app.image} alt="" />
               <div className="flex flex-col gap-3.5">
                 <h1 className="font-semibold">{app.title}</h1>
-                <div className="flex items-center gap-4 text-xs">
+                <div className="flex items-center gap-6 text-xs">
                   <p className="flex text-[#00D390] gap-1 items-center">
                     <img className="w-3" src="/icon-downloads.png" alt="" />
                     <span>{app.downloads}</span>

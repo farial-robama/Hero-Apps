@@ -13,7 +13,7 @@ const Installation = () => {
 
   if (loading) {
     return (
-      <div>
+      <div className="flex justify-center my-4">
         <span className="loading loading-ball loading-xs"></span>
         <span className="loading loading-ball loading-sm"></span>
         <span className="loading loading-ball loading-md"></span>
@@ -23,7 +23,7 @@ const Installation = () => {
     );
   }
 
-  if (installedApps.length === 0) {
+  if (!installedApps || installedApps.length === 0) {
     return (
       <p className="text-xs text-[#627382] font-[400] text-center mt-2 mb-8">
         No apps installed.
@@ -31,8 +31,8 @@ const Installation = () => {
     );
   }
   return (
-    <div className=" bg-[#F1F5E8] text-center p-13">
-      <h1 className="text-2xl font-bold pt-3.5">Your Installed Apps</h1>
+    <div className="text-center px-13 py-16">
+      <h1 className="text-2xl font-bold pt-2">Your Installed Apps</h1>
       <p className="text-xs text-[#627382] font-[400] mt-2 mb-8">
         Explore All Trending Apps on the Market developed by us
       </p>
